@@ -1,0 +1,12 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;}
+  		th {
+  			width: 80px;
+  			background-color: rgb(220, 220, 220);
+  		}
+  		}
+  		th, td{
+  			min-width: 80px;
+  			text-align: center;
+  		}
